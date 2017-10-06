@@ -1,0 +1,24 @@
+.mylogo {
+    font-family: 'Righteous', cursive;
+    font-size: 1.8em;
+}
+
+.caption-img {
+    color: #ffffff;
+    text-transform: capitalize
+}
+
+.logos {
+    font-size: 1.2em;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    
+}
+
+.sorry-img {
+    background-color: #23a5d4
+}
+
+.error-sentence {
+    font-size: 2.0em
+}
